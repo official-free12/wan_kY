@@ -1,0 +1,6 @@
+# 完美【聚祥国际】理财/投资/复利/日分红，带手机版+电脑版
+
+金凤复利分红理财制度介绍;<br>　　<br>　　金凤币100一个，150元出局，最多购买100个，每天收益币产生的利息不是固定的由后台通过手动填写进行利息的分发，前台显示当日投放收益币总额度，卖出多少，剩余多少，如当日没卖完，第二天清零。都得是实时数据，后台可以进行当日收益币总额的投放。<br>　　<br>　　会员间积分币可以互转，可以给下级报单，10元  即可提现，  不收手续费。提现24小时到账。提现支持支付宝和银行卡。<br>　　<br>　　3奖金制度  、动态奖励：推荐奖（拿3代） 举例子 如果1代会员买100的收益币 我将享受100的5% 以此类推到三代。<br>　　<br>　　1代5%   2代2%   3代1%<br>　　<br>　　管理奖（团队下属6代每天分红）举列子就是下线有几代享受几代每天收益币利息总额度的百分比<br>　　<br>　　1代5%   2代4%   3代3%  4代2%   5代1%   6代1%<br>　　<br>　　感恩奖（所属团队会员6代提现奖励）就是享受6代有几代享受几代，当天提现额度的百分比以此类推<br>　　<br>　　1代2%   2代1%   3代1%  example.com%   example.com%   example.com%<br>　　<br>　　增加推广链接自动生成二维码形式。<br>　　<br>　　后台管理奖项设置 example.com%4以此类推<br>　　<br>　　开发完美运营版，手机PC端自适应<br>　　<br>　　完整版无漏洞的分红复利理财源码。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/tzEmV" style="color: red;">https://mega-file.org/tzEmV</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
